@@ -1,0 +1,184 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+    background-color:#f1f0ec;
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+#addQuestion{
+    height: 40px;
+    width: 204px;
+    font-size:16px;
+    color:#fb8760;
+    background-color:white;
+    border-radius: 30px;
+    padding-bottom: 4px;
+    border:1px solid #fb8760;
+}
+#addGroup{
+    height: 40px;
+    width: 264px;
+    font-size:16px;
+    color:#fb8760;
+    background-color:white;
+    border-radius: 30px;
+    padding-bottom: 4px;
+    border:1px solid #fb8760;
+margin-left:10px;
+}
+#generate{
+    height: 40px;
+    width: 240px;
+    font-size:16px;
+    color:white;
+    background-color:#fb8760;
+    border-radius: 30px;
+    padding-bottom: 4px;
+    border:1px solid #fb8760;
+}
+#status{
+    margin-left: 300px;
+}
+#date{
+    margin-left:350px;
+}
+#zelen{
+    color: #1e7e34;
+    margin-left:239px;
+}
+#sostoyanie{
+    margin-left:100px;
+}
+#nazvanie{
+    margin-left:50px;
+}
+#data{
+    margin-left: 100px;
+}
+#1{
+    margin-left: 350px;
+    font-size:30px;
+}
+.whom{
+    font-size:25px;
+}
+#save{
+    height: 40px;
+    width: 200px;
+    font-size:16px;
+    color:white;
+    background-color:#fb8760;
+    border-radius: 30px;
+    padding-bottom: 4px;
+    border:1px solid #fb8760;
+    margin-bottom: 50px;
+    margin-left:130px;
+}
+#save:hover{
+    background-color: white;
+    color:#fb8760;
+    border:6px ridge  #fb8760;
+}
+#generate:hover{
+    background-color: white;
+    color:#fb8760;
+}
+.textblock{
+    color:#4c6278;
+   border:1px solid #f1f0ec;
+    border-bottom-color: #4c6278;
+    background-color: #f1f0ec;
+}
+#addQuestion:hover{
+    color:white;
+    background-color:#fb8760;
+}
+#addGroup:hover{
+    color:white;
+    background-color:#fb8760;
+}
+.discription{
+    color:#27486b;
+}
+.button:after{
+    content: "";
+    display: block;
+    position: relative;
+    border-right: 1px solid black;
+    width: 0;
+    height: 52px;
+    top: 100px;
+    left: 49px;
+}
+#first{
+    position: absolute;
+    background-color:grey;
+    bottom:-1080px;
+    width: 100%;
+    left:0;
+    height: 1px;
+}
+#firstsh{
+    background-color: white;
+}
+#ready{
+    color:#fc906d;
+}
+#createSh{
+    margin-left:600px;
+    width: 221px;
+    height: 42px;
+    border-radius: 18px;
+    background-color: #fd916d;
+    border:1px solid #fd916d;
+    color:white;
+}
+.card{
+    width: 280px;
+    height: 207px;
+    border-radius: 8px;
+    box-shadow: 0 0 44.1px 4.9px rgba(7, 9, 9, 0.09);
+    background-color: #ffffff;
+}
+.knopka{
+    width: 220px;
+    height: 41px;
+    border-radius: 20px;
+    border: solid 1px #fc906d;
+    background-color: white;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.63;
+    letter-spacing: 0.02px;
+    text-align: left;
+    color: #fc906d;
+}
+#next{
+    background-color: grey;
+    color:white;
+    margin-left:1000px;
+}
+#previous{
+    background-color:white;
+    color:black;
+    margin-left:1000px;
+}
+
